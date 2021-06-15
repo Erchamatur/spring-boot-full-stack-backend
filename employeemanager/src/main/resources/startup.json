@@ -1,0 +1,64 @@
+[{
+  "name" : "Frodo Baggins",
+  "email" : "Frodo.Baggins@fellwoship.ring.me",
+  "phone" : "0351-1",
+  "jobTitle" : "Ring Bearer",
+  "imageURI":"///"
+},
+  {
+    "name" : "Gandalf The Grey",
+    "email" : "mithrandir@fellwoship.ring.me",
+    "phone" : "1-2",
+    "jobTitle" : "Wizard",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Samwise Gamyee",
+    "email" : "SamTheBrave@fellwoship.ring.me",
+    "phone" : "0351-2",
+    "jobTitle" : "Support",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Meriadoc Brandybuck",
+    "email" : "merryBrandybuck@fellwoship.ring.me",
+    "phone" : "0351-3",
+    "jobTitle" : "Rider of Rohan",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Peregrin Tuk",
+    "email" : "sirpippintuk@fellwoship.ring.me",
+    "phone" : "0351-4",
+    "jobTitle" : "Knight of Gondor",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Aragorn Son of Arathorn",
+    "email" : "elessar@fellwoship.ring.me",
+    "phone" : "00-00",
+    "jobTitle" : "Heir to the Throne",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Legolas of the Woodland Realm",
+    "email" : "goldilocks@fellwoship.ring.me",
+    "phone" : "11-2",
+    "jobTitle" : "Prince of the Woodland Realm",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Gimli Son of Gloin",
+    "email" : "stillcountsasone@fellwoship.ring.me",
+    "phone" : "33-5",
+    "jobTitle" : "Dwarf",
+    "imageURI":"///"
+  },
+  {
+    "name" : "Boromir son of Denethor",
+    "email" : "onedoesnotsimply@fellwoship.ring.me",
+    "phone" : "10-0",
+    "jobTitle" : "Future Steward of Gondor",
+    "imageURI":"///"
+  }
+]
